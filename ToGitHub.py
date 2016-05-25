@@ -14,3 +14,5 @@ for i in range(1,10):
     print u'%d^2 = %d' % (i, i*i)
 
 print u'暂存区Test'
+
+print u'怎么办？回到某一个版本修改，提交会怎样？'
